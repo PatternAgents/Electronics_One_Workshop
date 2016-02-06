@@ -7,7 +7,7 @@ that wish to quickly understand basic microprocessor based systems like the Ardu
 This brief introduction is presented as a Wiki, in the hopes that others may find it useful,
 and add their questions and answers to discussion here.
 
-##[Start at the Wiki](https://github.com/PatternAgents/Electronics_One_Workshop/wiki)
+##[ --> Start at the Wiki <-- ](https://github.com/PatternAgents/Electronics_One_Workshop/wiki)
 
 -------------------------------------------------------------------------------------------
 [![PatternAgents Workshops](http://patternagents.github.io/img/projects/Videre/Videre_model.png)
